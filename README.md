@@ -48,9 +48,6 @@ I am a Software Developer with 4+ years of experience building scalable web appl
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/>
 </a>
 
-<a href="https://material.angular.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular Material"/>
-</a>
 </p>
 
 ---
@@ -64,7 +61,12 @@ I am a Software Developer with 4+ years of experience building scalable web appl
 </a>
 
 <a href="https://ngrx.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=redux" alt="NgRx"/>
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge" alt="NgRx"/>
+</a>
+
+<a href="https://redux.js.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+</a>
 </a>
 
 </p>
@@ -87,16 +89,37 @@ I am a Software Developer with 4+ years of experience building scalable web appl
 
 ---
 
-<h3>🗄️ Database</h3>
+
+<h3>🗄️ Database & Cloud</h3>
 
 <p align="left">
 
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+       alt="MySQL"
+       width="48"
+       height="48"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+       alt="MongoDB"
+       width="48"
+       height="48"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+       alt="PostgreSQL"
+       width="48"
+       height="48"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+       alt="Firebase"
+       width="48"
+       height="48"/>
 </a>
 
 </p>
