@@ -181,6 +181,6 @@ Collaboration and networking platform.
 
 Email: rishbhbhawsar24@gmail.com
 
-LinkedIn: Add Your LinkedIn URL
+LinkedIn: https://www.linkedin.com/in/rishbh-bhawsar?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 GitHub: https://github.com/rishbhbhawsar24
