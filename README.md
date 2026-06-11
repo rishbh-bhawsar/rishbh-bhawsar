@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rishabh Bhawsar
+# Hi 👋, I'm Rishbh Bhawsar
 
 ## Senior Software Developer | Angular Developer
 
